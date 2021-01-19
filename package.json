@@ -1,0 +1,30 @@
+{
+  "name": "rectangle-spawn",
+  "version": "1.0.0",
+  "description": "spawn small rectangles into a larger rectangle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misterhat/rectangle-fit.git"
+  },
+  "keywords": [
+    "rectangle",
+    "random",
+    "spawn",
+    "pack"
+  ],
+  "author": "Zorian Medwid <misterhat144@gmail.com>",
+  "license": "GPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/misterhat/rectangle-fit/issues"
+  },
+  "homepage": "https://github.com/misterhat/rectangle-fit#readme",
+  "dependencies": {
+    "bitfield": "^4.0.0",
+    "ndarray": "^1.0.19",
+    "rcolor": "^2.0.2"
+  }
+}
